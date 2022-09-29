@@ -1,0 +1,22 @@
+This app adds Saint John Transit buses information to MonTransit.
+
+This app provides the buses schedule and the latest news from @ThinkTransitSJ on Twitter.
+
+Saint John Transit buses serve Saint John in New Brunswick, Canada.
+
+Once this application is installed, the MonTransit app will display buses information (schedule...).
+
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by the City of Saint John.
+https://catalogue-saintjohn.opendata.arcgis.com/datasets/d6f4783521364429a2e51a64c60ae234/about
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-saint-john-transit-bus-android
+
+This app is not related with Saint John Transit.
+
+Permissions:
+- Other: required to read the news from Twitter
