@@ -1,0 +1,729 @@
+34318,'','St Patrick St & Union St',45.27374,-66.064929
+34319,'','Sierra Av & Hampton Rd',45.399854,-65.978018
+34320,'','King''s Sq N',45.274167,-66.058633
+34321,'','Royal Bank - Charlotte St',45.272995,-66.058852
+34325,'','Pl 400',45.275073,-66.076703
+34326,'','Douglas Ave & Main St N',45.27493,-66.078578
+34327,'','Douglas Ave & Main St N',45.274804,-66.0784
+34328,'','Across From 60 Douglas Ave',45.273853,-66.079155
+34329,'','15 Mkt Sq',45.272949,-66.06289
+34330,'','Broad St & Sydney St',45.266633,-66.054664
+34331,'','Golden Ball - Sydney St',45.274747,-66.057275
+34332,'','Sydney St & King''s Sq N',45.274432,-66.057472
+34333,'','Union St & Carmarthen St',45.275623,-66.055349
+34334,'','Prince Edward Sq',45.275965,-66.0546
+34335,'','Union St & Pitt St',45.276078,-66.052615
+34337,'','Union St & Crown St',45.276521,-66.051254
+34338,'','Mt Pleasant Ave & Bayside Dr',45.280875,-66.036364
+34339,'','Bayside Dr & Pk Av',45.281626,-66.037452
+34340,'','Belgrave St & Mt Pleasant Av E',45.281566,-66.034861
+34341,'','Pk Av & Belgrave St',45.282607,-66.035507
+34342,'','Pk Av & Belgrave St',45.282511,-66.035433
+34343,'','Pk Av & Wilton St',45.28333,-66.033595
+34344,'','Pk Av & Wilton St',45.283253,-66.033565
+34345,'','Pk Av & Virginia St',45.285504,-66.02812
+34346,'','Pk Av & Virginia St',45.285433,-66.027997
+34348,'','80 McDonald St',45.288093,-66.028811
+34349,'','Across From 80 McDonald St',45.288187,-66.02864
+34350,'','Loch Lomond Villa - Loch Lomond Rd',45.289476,-66.033267
+34351,'','168 Loch Lomond Rd',45.28896,-66.034269
+34352,'','Westmorland Rd & Loch Lomond Rd',45.288095,-66.040612
+34353,'','93 Loch Lomond Rd',45.288309,-66.038589
+34354,'','100 Loch Lomond Rd',45.288223,-66.038388
+34355,'','Westmorland Rd & Loch Lomond Rd',45.287973,-66.040854
+34356,'','Westmorland Rd & McLauchlin Cr',45.289791,-66.038929
+34357,'','Westmorland Rd & McLauchlin Cr',45.289908,-66.039041
+34358,'','Kilburn Av & Westmorland Rd',45.291741,-66.036257
+34359,'','Kilburn Av & Westmorland Rd',45.291867,-66.036344
+34360,'','Kilburn Av & Ellerdale St',45.291618,-66.035026
+34361,'','Kilburn Av & Ellerdale St',45.291675,-66.034868
+34362,'','Loch Lomond Villa - Ellerdale St',45.291515,-66.03284
+34363,'','Loch Lomond Villa - Ellerdale St',45.291564,-66.032995
+34364,'','Ellerdale St & Rdg St',45.292386,-66.031458
+34365,'','Ellerdale St & Rdg St',45.292496,-66.03154
+34366,'','Ellerdale St & St Anne St',45.29341,-66.030163
+34367,'','Ellerdale St & St Anne St',45.29349,-66.030266
+34368,'','Ellerdale St & Margaret St',45.294601,-66.02926
+34369,'','Ellerdale St & Margaret St',45.294659,-66.029423
+34370,'','Ellerdale St & Woodhollow Pk',45.296808,-66.028533
+34371,'','Ellerdale St & Woodhollow Pk',45.296926,-66.02867
+34372,'','509 Ellerdale St',45.298277,-66.027566
+34373,'','Across From 509 Ellerdale St',45.298251,-66.027804
+34374,'','Westmorland Rd & Ellerdale St',45.299192,-66.028113
+34375,'','Westmorland Rd & Ellerdale St',45.299346,-66.028234
+34376,'','Westmorland Rd, Southwest Of Retail Dr',45.300395,-66.025237
+34377,'','Westmorland Rd, Southwest Of Retail Dr',45.30057,-66.025322
+34380,'','Westmorland Rd & Depot Ct',45.302938,-66.02239
+34381,'','Westmorland Rd & Depot Ct',45.302862,-66.022207
+34382,'','Canadian Tire - Westmorland Rd',45.303998,-66.021158
+34383,'','Best Buy - Consumers Dr',45.306275,-66.021134
+34384,'','Winners - Majors Brk Dr',45.308665,-66.022592
+34385,'','Across From Best Buy - Consumers Dr',45.306183,-66.021252
+34387,'','Walmart - Westmorland Rd',45.307457,-66.018414
+34388,'','Consumers Dr & Westmorland Rd',45.305043,-66.018388
+34389,'','Consumers Dr & Westmorland Rd',45.305038,-66.018772
+34390,'','35 Consumers Dr',45.304342,-66.017114
+34392,'','McAllister Pl',45.306,-66.017632
+34394,'','McDonald''s - McAllister Dr',45.311944,-66.020372
+34395,'','Michael''s - McAllister Dr',45.312206,-66.022001
+34396,'','Exhibition Pk - McAllister Dr',45.312631,-66.022638
+34397,'','McAllister Dr & Golden Grv Rd',45.313197,-66.024229
+34403,'','Rothesay Ave & Retail Dr',45.308266,-66.030452
+34404,'','Deluxe - Rothesay Ave',45.308449,-66.030626
+34405,'','Across From 418 Rothesay Ave',45.304388,-66.033891
+34406,'','418 Rothesay Ave',45.304244,-66.033714
+34407,'','Crosby''s Molasses - Rothesay Ave',45.297679,-66.039355
+34409,'','Rothesay Ave & Specer St',45.294749,-66.041487
+34410,'','283 Rothesay Ave',45.294845,-66.041686
+34411,'','276 Rothesay Ave',45.293172,-66.042112
+34412,'','255 Rothesay Ave',45.29311,-66.042343
+34414,'','Rothesay Ave.Between Russell St & Railway',45.291001,-66.04318
+34415,'','Rothesay Av Between Russell St & Railway',45.29082,-66.04307
+34416,'','Superstore - Rothesay Ave',45.28891,-66.045296
+34417,'','Brett''s - Rothesay Ave',45.288825,-66.045674
+34418,'','Rothesay Ave & G Arrowsmith Way',45.286256,-66.048351
+34419,'','Post Office - Rothesay Ave',45.286077,-66.048853
+34420,'','80 Rothesay Ave',45.285138,-66.049695
+34421,'','75 Rothesay Ave',45.2852,-66.049887
+34422,'','Waterloo St & Haymarket Sq',45.281798,-66.053485
+34423,'','Haymarket Sq & Waterloo St',45.28221,-66.053453
+34424,'','Waterloo St & Agar Pl',45.280191,-66.054519
+34425,'','Waterloo St & Agar Pl',45.28025,-66.054685
+34426,'','Cathedral - Waterloo St',45.278726,-66.055622
+34427,'','Cathedral - Waterloo St',45.278625,-66.05553
+34428,'','Prince Edward St & Richmond St',45.277052,-66.054732
+34429,'','Prince Edward St & Richmond St',45.276994,-66.055008
+34430,'','Prince Edward St & Union St',45.275761,-66.056335
+34432,'','King St & Germain St',45.273273,-66.060249
+34433,'','10 Mkt Sq',45.27267,-66.062615
+34435,'','Hilyard Pl - Main St',45.276462,-66.070795
+34436,'','Hilyard Pl - Main St',45.27636,-66.070259
+34439,'','Main St & Lansdowne Av',45.275324,-66.076628
+34442,'','60 Douglas Ave',45.273765,-66.079013
+34444,'','Main St & Simonds St',45.275418,-66.072893
+34445,'','Douglas Av & Alexandra St',45.270582,-66.081127
+34446,'','Douglas Ave & Alexandra St',45.270359,-66.081436
+34447,'','Douglas Ave & Bentley St',45.268798,-66.081955
+34448,'','Douglas Av & Bentley St',45.268856,-66.081748
+34449,'','Harbourview HS',45.26552,-66.083359
+34450,'','Harbourview HS',45.265722,-66.082971
+34451,'','Douglas Ave & Fallsview Ave',45.263865,-66.084175
+34452,'','Douglas Ave & Fallsview Ave',45.26366,-66.084032
+34453,'','500 Douglas Ave',45.261177,-66.084802
+34454,'','500 Douglas Ave',45.261225,-66.084985
+34455,'','Reversing Falls Restaurant - Bridge Rd',45.258307,-66.089119
+34456,'','Bridge Rd & Mill Rd',45.258321,-66.089858
+34458,'','Simms Corner - Bridge Rd',45.256762,-66.092192
+34460,'','Simms Corner',45.256516,-66.093165
+34461,'','572 Harding St W',45.256296,-66.09464
+34462,'','630 Harding St W',45.254868,-66.095678
+34463,'','Lancaster Mall',45.254053,-66.093132
+34466,'','Simms Corner - Bridge Rd',45.256706,-66.092527
+34469,'','Dunn Ave & Lancaster Ave',45.253769,-66.084876
+34470,'','Lancaster Av & Havelock St',45.253755,-66.083751
+34471,'','Dunn Ave & Young St',45.252091,-66.086059
+34472,'','Dunn Av & Fundy Dr',45.250269,-66.086628
+34477,'','Across From 679 Chapel St',45.252017,-66.073529
+34478,'','Chapel St & Woodville Rd',45.251127,-66.071428
+34479,'','Woodville Rd & City Line',45.252482,-66.069625
+34482,'','St John St & Watson St',45.255595,-66.07044
+34484,'','St John St & Ludlow St',45.256458,-66.069594
+34485,'','St John St & Ludlow St',45.256441,-66.069842
+34489,'','Duke St W & Watson St',45.258347,-66.07654
+34490,'','Duke St W & City Line',45.25692,-66.077932
+34491,'','Duke St W & Champlain St',45.255901,-66.078552
+34493,'','Across From 476 Lancaster Ave',45.253704,-66.080807
+34496,'','Sand Cv Rd & Driscoll Dr',45.247771,-66.088188
+34497,'','Sand Cv Rd & Molson Ave',45.247073,-66.090178
+34499,'','Bleury St & Danells Dr',45.24708,-66.093159
+34502,'','170 Douglas Ave',45.271926,-66.080435
+34503,'','153 Douglas Ave',45.271988,-66.080639
+34504,'','Across From 302 Douglas Ave',45.266923,-66.082644
+34505,'','302 Douglas Ave',45.266911,-66.082414
+34509,'','King St W & Watson St',45.25913,-66.077103
+34514,'','Bleury St & Sherbrooke St',45.2499,-66.093338
+34515,'','Pk Av & Alma St E',45.284658,-66.029965
+34516,'','Pk Av & Alma St E',45.284787,-66.029871
+34517,'','Pk Av & Belmont St',45.28401,-66.03193
+34518,'','Pk Av & Belmont St',45.283874,-66.031793
+34523,'','451 Rothesay Ave',45.306987,-66.031795
+34524,'','450 Rothesay Ave',45.306727,-66.031722
+34525,'','421 Rothesay Ave',45.30503,-66.033359
+34526,'','428 Rothesay Ave',45.30521,-66.032964
+34527,'','410 Rothesay Ave',45.303273,-66.034514
+34528,'','Across From 410 Rothesay Ave',45.303278,-66.03479
+34529,'','347 Rothesay Ave',45.300334,-66.03719
+34530,'','368 Rothesay Ave',45.300256,-66.036968
+34532,'','356 Rothesay Ave',45.297623,-66.039118
+34533,'','Across From 330 Rothesay Ave',45.296014,-66.040707
+34534,'','324 Rothesay Ave',45.295615,-66.040756
+34536,'','175 Rothesay Ave',45.287669,-66.047082
+34537,'','Across From 175 Rothesay Ave',45.287525,-66.046901
+34538,'','Paddock St & Waterloo St',45.276786,-66.057221
+34539,'','Coburg St & Paddock St',45.277468,-66.059027
+34540,'','St Joeph''s Hosp',45.278725,-66.058426
+34541,'','King St & Germain St',45.273155,-66.060176
+34542,'','Mercantile Ctr',45.274524,-66.064932
+34545,'','Lansdowne Av & Visart St',45.279629,-66.076525
+34546,'','Lansdowne Av & Visart St',45.279663,-66.076779
+34547,'','Visart St & Churchill Blvd',45.280035,-66.077926
+34548,'','Visart St & Churchill Blvd',45.279884,-66.077776
+34549,'','Adelaide St & Millidge Ave',45.280918,-66.080336
+34550,'','Millidge Av & Ropewalk Rd',45.283756,-66.083349
+34551,'','Millidge Av & Ropewalk Rd',45.283611,-66.08339
+34552,'','Millidge Av & Valerie St',45.282753,-66.082333
+34553,'','Millidge Av & Valerie St',45.282721,-66.082491
+34554,'','Millidge Av & Sussex Dr',45.283527,-66.085018
+34555,'','Millidge Av & Sussex Dr',45.283381,-66.085039
+34556,'','Millidge Av & Spar Cv Rd',45.283143,-66.087027
+34557,'','Millidge Av & Spar Cv Rd',45.283286,-66.087146
+34558,'','Millidge Av & Lime Kiln Rd',45.285751,-66.089345
+34559,'','Millidge Av & Tartan St',45.285811,-66.089659
+34560,'','Millidge Av & Somerset St',45.287901,-66.091663
+34561,'','Millidge Av & Somerset St',45.287814,-66.091784
+34562,'','Millidge Av & Boars Head Rd',45.290795,-66.094392
+34563,'','Millidge Av & Boars Head Rd',45.290879,-66.094785
+34564,'','Millidge Av & University Av',45.293382,-66.096123
+34565,'','University Av & Millidge Av',45.293655,-66.095297
+34566,'','University Ave & Woodhaven Dr',45.295312,-66.091304
+34567,'','121 University Ave',45.295162,-66.091079
+34570,'','University Av & Varsity St',45.300214,-66.083864
+34571,'','University Av & Varsity St',45.300111,-66.08442
+34573,'','St John Regional Hosp',45.301529,-66.085037
+34574,'','St John Regional Hosp',45.30305,-66.083416
+34576,'','Tucker Pk Rd',45.306721,-66.078947
+34577,'','Student Union Hall - UNBSJ',45.306801,-66.086144
+34578,'','Annex - UNBSJ',45.304826,-66.085434
+34580,'','Millidge Av & Natalie St',45.28105,-66.080891
+34581,'','Millidge Av & Charlton Pl',45.281401,-66.081134
+34583,'','University Ave & Candlewood Ln',45.293954,-66.093426
+34584,'','Gorman Arena - University Ave',45.294438,-66.092921
+34585,'','University Av & Royal Pkwy',45.296675,-66.087686
+34586,'','University Av & Royal Pkwy',45.296852,-66.087847
+34587,'','Somerset St & Magee Pl',45.28824,-66.090022
+34588,'','Somerset St & Lime Kiln Rd',45.288054,-66.089501
+34589,'','Superstore - Somerset St',45.288905,-66.083567
+34590,'','Superstore - Somerset St',45.288762,-66.083688
+34591,'','535 Somerset St',45.287522,-66.080065
+34592,'','520 Somerset St',45.287652,-66.079978
+34593,'','Churchill Blvd & Somerset St',45.286186,-66.078849
+34594,'','Churchill Blvd & Somerset St',45.286185,-66.078641
+34595,'','Ymca - Churchill Blvd',45.284589,-66.078509
+34596,'','Ymca - Churchill Blvd',45.285276,-66.078407
+34599,'','Churchill Blvd & Balfour St',45.282302,-66.078059
+34600,'','Lansdowne Ave',45.277811,-66.076705
+34601,'','75 Lansdowne Ave',45.277672,-66.076993
+34608,'','171 Adelaide St',45.279338,-66.08061
+34610,'','Adelaide St & Harrington St',45.278188,-66.080467
+34611,'','Harrington St & Visart St',45.279997,-66.079237
+34612,'','Spar Cv Rd & Millidge Ave',45.28311,-66.087471
+34613,'','Belleview Av & Highland Rd',45.27894,-66.091035
+34614,'','Belleview Ave & Pokiok Rd',45.278116,-66.091545
+34615,'','Pokiok Rd & Bridge St',45.277591,-66.08939
+34616,'','Robertson Sq - Bridge St',45.275008,-66.088151
+34617,'','Main St & Cedar St',45.275075,-66.08517
+34618,'','Albert St & Metcalf St',45.275944,-66.084342
+34619,'','Newman St & Shamrock Ct',45.277476,-66.084314
+34620,'','Newman St & Adelaide St',45.277491,-66.080684
+34623,'','Boars Head Rd & Millidge Av',45.29071,-66.094918
+34624,'','Boars Head Rd & Millidge Av',45.290594,-66.094827
+34625,'','Boars Head Rd & McIntosh St',45.291195,-66.099377
+34626,'','Boars Head Rd & McIntosh St',45.291152,-66.099687
+34627,'','Boars Head Rd & Cambridge Dr',45.292383,-66.106264
+34628,'','Boars Head Rd & Cambridge Dr',45.292273,-66.106505
+34629,'','Boars Head Rd & Woodward Av',45.292995,-66.112582
+34630,'','Woodward Av & Brentwood Cr',45.293551,-66.106085
+34631,'','Woodward Av & Brentwood Cr',45.293468,-66.106309
+34632,'','Across From 298 Woodward Ave',45.29325,-66.103944
+34633,'','298 Woodward Ave',45.293391,-66.103872
+34634,'','Air Canada Call Ctr - Woodward Ave',45.293295,-66.101884
+34635,'','40 Woodward Ave',45.293443,-66.101837
+34636,'','Ray St & Black St',45.295149,-66.102177
+34637,'','Black St & Ray St',45.295326,-66.102367
+34638,'','Black St & Daniel Av',45.297138,-66.101661
+34639,'','Black St & Daniel Av',45.297137,-66.101505
+34640,'','Daniel Av & Millidge Av',45.297656,-66.100464
+34641,'','Millidge Av & Daniel Av',45.297997,-66.0998
+34642,'','Millidge Av & Pk Lawn Ct',45.299744,-66.10127
+34643,'','Kennebecasis Dr & Meadowbank Av',45.302215,-66.099677
+34644,'','Kennebecasis Dr & Meadowbank Av',45.302056,-66.100066
+34652,'','Metcalf St & Lansdowne Av',45.276009,-66.076805
+34655,'','Wellesley Av & Dufferin Av',45.278556,-66.075617
+34659,'','Wellesley Ave & Fegan Ct',45.27969,-66.073937
+34661,'','Wellesley Av & Montgomery Cr',45.280532,-66.073064
+34662,'','Wellesley Av & Somerset St',45.281664,-66.07132
+34664,'','Anglin Dr & Anglin Cr',45.28828,-66.069154
+34665,'','108 Anglin Dr',45.288853,-66.068768
+34666,'','Sandy Pt Rd & Jack St',45.290608,-66.064985
+34667,'','Sandy Pt Rd',45.291188,-66.067189
+34668,'','MacLaren Blvd & Sandy Pt Rd',45.291899,-66.071523
+34669,'','MacLaren Blvd & Howard''s Court',45.291268,-66.072484
+34670,'','MacLaren Blvd & Flemming Court',45.290219,-66.075041
+34671,'','113 MacLaren Blvd',45.289443,-66.075366
+34673,'','75 MacLaren Blvd',45.288745,-66.076355
+34678,'','Charlotte St & Duke St',45.270554,-66.058025
+34679,'','Charlotte St & Queen Sq N',45.269531,-66.057687
+34680,'','Charlotte St & St James St',45.267852,-66.05714
+34683,'','Broad St & Charlotte St',45.26677,-66.056802
+34684,'','Broad St & Carmarthen St',45.266871,-66.053221
+34685,'','Wentworth St & Broad St',45.267685,-66.051387
+34686,'','Wentworth St & St James St',45.26837,-66.051585
+34687,'','Mecklenburg St & Wentworth St',45.270644,-66.051908
+34688,'','Mecklenburg St & Pitt St',45.270868,-66.050849
+34689,'','Pitt St & Leinster St',45.273777,-66.051585
+34690,'','Pitt St & King St E',45.274551,-66.051787
+34692,'','Crown St & Stephen Pk',45.279268,-66.051617
+34693,'','Crown St & Paul Harris St',45.278744,-66.051891
+34696,'','Crown St & Hanover St',45.281689,-66.051795
+34697,'','Crown St & Hanover St',45.281871,-66.051551
+34698,'','Crown St & Dunlop Ln',45.280395,-66.051862
+34700,'','Seely St & Mt Pleasant Ave',45.286855,-66.055449
+34701,'','235 Gilbert St',45.287499,-66.052185
+34703,'','Gilbert St & Davenport Ave',45.286407,-66.053321
+34705,'','Wright St & Spruce St',45.28416,-66.056518
+34706,'','Wright St & Spruce St',45.284051,-66.056423
+34707,'','Wright St & Autumn St',45.282502,-66.059513
+34708,'','Wright St & Autumn St',45.28263,-66.059531
+34709,'','Winter St & Summer St',45.281681,-66.059523
+34710,'','Winter St & Summer St',45.281619,-66.059428
+34711,'','Winter St & Spg St',45.281136,-66.060553
+34712,'','Winter St & Spg St',45.281069,-66.060466
+34713,'','Winter St & Rockland Rd',45.280304,-66.062123
+34714,'','Rockland Rd & Winter St',45.280178,-66.062816
+34715,'','Parks St & Mitchell St',45.280605,-66.065539
+34716,'','Parks St & Mitchell St',45.28055,-66.065648
+34717,'','5 Corners',45.281677,-66.066805
+34718,'','Second St & Cranston Ave',45.280197,-66.068276
+34719,'','Barker St & Somerset St',45.279421,-66.068928
+34720,'','Fort Howe Apt - Magazine St',45.277886,-66.071787
+34721,'','Fifth St & Cranston Av',45.281884,-66.069384
+34722,'','Fifth St & Parks St',45.282623,-66.067442
+34724,'','Parkwood Av & Sandy Pt Rd',45.287007,-66.063659
+34725,'','Mt Pleasant Ave & Arrow Walk Rd',45.287297,-66.059805
+34726,'','Mt Pleasant Ave & Burpee St',45.282736,-66.063775
+34727,'','Bleury St & Sherbrooke St',45.249884,-66.093542
+34740,'','Main St W & Harding St W',45.256482,-66.094671
+34741,'','TD Canada Trust Bank - Main St W',45.256787,-66.097339
+34742,'','Moosehead Brewery - Main St W',45.256937,-66.097296
+34743,'','15 Main St W',45.257095,-66.099451
+34750,'','Grn Head Rd & Milford Rd',45.261947,-66.10574
+34752,'','Grn Head Rd & Balmoral Cr',45.26383,-66.109264
+34754,'','420 Grn Head Rd',45.265059,-66.111845
+34756,'','Dwyer Rd & Russell Hl Rd',45.268829,-66.112208
+34758,'','Dwyer Rd & Balmoral Cr',45.2697,-66.108867
+34760,'','Kingsville Rd & Primrose St',45.269792,-66.104611
+34761,'','Kingsville Rd & Violet St',45.268577,-66.103339
+34762,'','Kingsville Rd & Hawtrey St',45.267915,-66.102116
+34763,'','Kingsville Rd & Milford Rd',45.267746,-66.10097
+34764,'','Milford Rd & Kingsville Rd',45.267886,-66.100929
+34767,'','205 Milford Rd',45.271325,-66.10184
+34768,'','210 Milford Rd',45.27129,-66.101984
+34770,'','135 Milford Rd',45.273028,-66.100799
+34771,'','134 Milford Rd',45.273066,-66.100957
+34772,'','113 Milford Rd',45.273683,-66.10056
+34774,'','110 Milford Rd',45.273741,-66.10075
+34775,'','Allison St & Francis St',45.273183,-66.098909
+34776,'','38 Milford Rd',45.2738,-66.097653
+34777,'','Milford Rd & Williams St',45.266645,-66.101233
+34778,'','Milford Rd & Violet St',45.265023,-66.102862
+34779,'','Grn Head Rd & Milford Rd',45.262032,-66.105541
+34789,'','843 Bleury St',45.248936,-66.093272
+34790,'','Across From 843 Bleury St',45.248957,-66.09347
+34793,'','468 Grn Head Rd',45.265976,-66.112919
+34794,'','490 Grn Head Rd',45.267243,-66.112665
+34795,'','Dwyer Rd & River Hl Dr',45.269942,-66.107233
+34796,'','233 Milford Rd',45.270047,-66.100571
+34797,'','244 Milford Rd',45.270014,-66.100712
+34798,'','162 Milford Rd',45.272357,-66.101348
+34799,'','Across From 162 Milford Rd',45.272288,-66.101227
+34801,'','462 Milford Rd',45.264216,-66.104034
+34802,'','Manawagonish Rd & Coster St',45.254613,-66.102245
+34803,'','Manawagonish Rd & Coster St',45.254667,-66.102416
+34804,'','Birch St & Manawagonish Rd',45.253103,-66.103778
+34805,'','Birch St & Manawagonish Rd',45.252989,-66.103848
+34806,'','Manawagonish Rd & Orange St W',45.256542,-66.100976
+34807,'','Dexter Dr & Mollins Dr',45.253442,-66.106142
+34808,'','Dexter Dr & Mollins Dr',45.253565,-66.105842
+34809,'','157 Greendale Cresent',45.253332,-66.110162
+34810,'','154 Greendale Cresent',45.253214,-66.110138
+34825,'','Anderson Dr & Edgehill Row',45.251382,-66.118932
+34826,'','Anderson Dr & Edgehill Row',45.251507,-66.119073
+34827,'','Anderson Dr & Lorne Ave',45.249219,-66.118225
+34828,'','Anderson Dr & Lorne Ave',45.249207,-66.118366
+34829,'','Central Ave',45.246295,-66.117757
+34830,'','Central Ave',45.246523,-66.118349
+34831,'','Quinton Ave & Central Ave',45.244797,-66.116993
+34832,'','Quinton Ave & Central Ave',45.244786,-66.117173
+34833,'','Horsler Dr & Harbary Terr',45.242282,-66.118311
+34834,'','Horsler Dr & Harbary Terr',45.242329,-66.11804
+34835,'','Centennial Dr & Horsler Dr',45.240152,-66.120481
+34836,'','Centennial Dr & Horsler Dr',45.240031,-66.120462
+34839,'','1650 Manawagonish Rd',45.235377,-66.124059
+34840,'','1655 Manawagonish Rd',45.235277,-66.123975
+34841,'','Manawagonish Rd & Fairville Blvd',45.237442,-66.120625
+34846,'','Manawagonish Rd & Rdg Row',45.233445,-66.131487
+34847,'','Manawagonish Rd & Rdg Row',45.233333,-66.131664
+34850,'','Manawagonish Rd & Westgate Dr',45.233901,-66.135054
+34855,'','Manawagonish Rd',45.234773,-66.138107
+34856,'','Across From 1918 Manawagonish Rd',45.234661,-66.138255
+34877,'','Manawagonish Rd',45.241073,-66.117651
+34878,'','Manawagonish Rd',45.241128,-66.117435
+34879,'','Manawagonish Rd & Hillcrest Dr',45.243062,-66.116266
+34880,'','Manawagonish Rd & Hillcrest Dr',45.243259,-66.116315
+34881,'','Manchester Av & Manawagonish Rd',45.249053,-66.112222
+34882,'','Manawagonish Rd (Hillcrest Vlg)',45.247765,-66.112837
+34883,'','Manawagonish Rd (Hillcrest Vlg)',45.247707,-66.112623
+34894,'','Fairville Blvd & Catherwood St',45.253256,-66.097342
+34895,'','Fairville Blvd & Catherwood St',45.253047,-66.097221
+34896,'','Westwind Pl',45.252033,-66.100004
+34897,'','Westwind Pl',45.251752,-66.099983
+34898,'','Canadian Tire - Fairville Blvd',45.25032,-66.101664
+34899,'','Canadian Tire - Fairville Blvd',45.250302,-66.102091
+34900,'','Fairville Blvd & Plz Av',45.248711,-66.103521
+34901,'','Fairville Blvd & Plz Av',45.248844,-66.103806
+34902,'','Fairville Blvd & Kierstead Rd',45.246912,-66.107295
+34903,'','Fairville Blvd & Kierstead Rd',45.246798,-66.10692
+34904,'','Fairville Blvd & Linton Rd',45.244696,-66.110923
+34905,'','Fairville Blvd & Linton Rd',45.24478,-66.111204
+34906,'','Fairville Blvd & Manawagonish Rd',45.237949,-66.119464
+34909,'','Ridgewood',45.254714,-66.128206
+34911,'','Gault Rd & Westfield Rd',45.252413,-66.140523
+34912,'','Westfield Rd & Gault Rd',45.252576,-66.141308
+34913,'','Westfield Rd & Grenville Ln',45.262541,-66.155268
+34914,'','Westfield Rd & Grenville Ln',45.262511,-66.155144
+34915,'','Westfield Rd & Lawrence Long Rd',45.265938,-66.155369
+34916,'','Westfield Rd & Lawrence Long Rd',45.266007,-66.15552
+34917,'','Westfield Rd & Acamac Beach Rd',45.268416,-66.155504
+34918,'','Westfield Rd & Acamac Beach Rd',45.268504,-66.155631
+34919,'','Westfield Rd & Acamac Backland Rd',45.273722,-66.154832
+34920,'','Westfield Rd & Acamac Backland Rd',45.273817,-66.154831
+34921,'','Westfield Rd & Belmont Rd',45.286292,-66.162433
+34922,'','Westfield Rd & Belmont Rd',45.28636,-66.16254
+34923,'','Westfield Rd & Martinon Bypass',45.29012,-66.195087
+34924,'','Westfield Rd & Martinon Bypass',45.289908,-66.195132
+34925,'','Westfield Rd & By Rd #7',45.276001,-66.151587
+34926,'','Westfield Rd & By Rd #7',45.276068,-66.15177
+34927,'','Westfield Rd & By Rd #2',45.278405,-66.153655
+34928,'','Westfield Rd & By Rd #2',45.278403,-66.153893
+34929,'','Westfield Rd & Ann Ave',45.289698,-66.189752
+34930,'','Westfield Rd & Highfield Ave',45.289787,-66.18995
+34931,'','Guardian Drugs - Grand Bay',45.299796,-66.19483
+34938,'','Manawagonish Rd & Gault Rd',45.236238,-66.142677
+34946,'','681 Michael Cresent',45.301888,-66.017712
+34947,'','635 Michael Cresent',45.301027,-66.019127
+34948,'','571 Michael Cr',45.299361,-66.020911
+34949,'','475 Michael Cr',45.297298,-66.021476
+34950,'','455 Michael Cresent',45.296826,-66.020807
+34951,'','19 Nason Rd',45.297196,-66.019013
+34953,'','Martha Av & Nason Rd',45.297537,-66.017507
+34955,'','558 Martha Av',45.298159,-66.017347
+34956,'','Cindy Lee St & Bonita Av',45.298659,-66.01977
+34957,'','620 Bonita Ave',45.299973,-66.018767
+34958,'','Mark Dr & Michael Cr',45.301483,-66.016978
+34977,'','Loch Lomond Rd & Eugene''s Way',45.302509,-65.996544
+34978,'','Nbcc - Grandview Ave',45.285557,-65.993841
+34979,'','Nbcc - Grandview Ave',45.285476,-65.993648
+34981,'','1123 Grandview Ave',45.287752,-65.990229
+34982,'','Across From 1123 Grandview Ave',45.28767,-65.990077
+34983,'','Heather Way & Grandview Ave',45.29136,-65.9853
+34984,'','Heather Way & Grandview Ave',45.291552,-65.985075
+34985,'','Heather Way & Wyatt Cr',45.295127,-65.986023
+34986,'','Heather Way & Wyatt Cr',45.295174,-65.985702
+34987,'','Heather Way & Oakhill Cr',45.299612,-65.986182
+34988,'','Heather Way & Oakhill Cr',45.299321,-65.985734
+34989,'','Hickey Rd & Jillian Ct',45.300612,-65.987322
+34990,'','Hickey Rd & Jillian Ct',45.300456,-65.98761
+34991,'','1501 Hickey Rd',45.300798,-65.991561
+34992,'','Simonds HS',45.300665,-65.991807
+34993,'','Tim Horton''s - Hickey Rd',45.301475,-65.997248
+34994,'','On The Vine - Hickey Rd',45.301362,-65.997383
+34995,'','Loch Lomond Rd W Of Hickey Rd',45.301564,-65.998478
+34996,'','Loch Lomond Rd W Of Hickey Rd',45.301617,-65.998775
+34997,'','Loch Lomond Rd & Silverstone St',45.300386,-66.003904
+34998,'','Loch Lomond Rd & Silverstone St',45.300119,-66.004181
+34999,'','49 Champlain Dr',45.295188,-66.006496
+35000,'','Champlain Dr & Creighton Ave',45.295234,-66.006742
+35003,'','74 Champlain Dr',45.293345,-66.005237
+35004,'','Champlain Dr & Knox Court',45.293437,-66.005093
+35005,'','104 Champlain Dr',45.290604,-66.003389
+35006,'','Champlain Hts S',45.290744,-66.002697
+35007,'','Champlain Dr & Dorothea Dr',45.288297,-66.001685
+35008,'','Champlain Dr & Dorothea Dr',45.288354,-66.001522
+35009,'','Champlain Dr & Ian St',45.284253,-65.998396
+35010,'','198 Champlain Dr',45.284135,-65.998509
+35011,'','Champlain Dr & Swanton St',45.286344,-65.999987
+35012,'','152 Champlain Dr',45.286448,-66.000239
+35013,'','1210 Loch Lomond Rd',45.303642,-65.992334
+35014,'','Irving - Loch Lomond Rd',45.303675,-65.992609
+35015,'','1395 Loch Lomond Rd',45.304613,-65.98951
+35016,'','Loch Lomond Rd & Bon Accord Dr',45.304484,-65.989394
+35017,'','Across From 1433 Loch Lomond Rd',45.306078,-65.985399
+35018,'','Across From 1506 Loch Lomond Rd',45.306251,-65.985069
+35019,'','1674 Loch Lomond Rd',45.307793,-65.978562
+35020,'','Loch Lomond Rd & McNamara Dr',45.308054,-65.978307
+35021,'','McNamara Dr & Summit Dr',45.308427,-65.978733
+35022,'','McNamara Dr & Dianne St',45.312286,-65.9817
+35023,'','Bing Av & David St',45.314284,-65.984279
+35024,'','30 David St',45.315851,-65.985759
+35025,'','Willie Av & Summit Dr',45.317291,-65.984006
+35026,'','Willie Av & Lakeview Dr',45.317073,-65.983053
+35027,'','255 Lakeview Dr',45.314411,-65.981025
+35028,'','Lakeview Dr & Charles St E',45.311585,-65.978716
+35029,'','29 Lakeview Dr',45.309302,-65.976882
+35030,'','McAllister Dr & Highmeadow Dr',45.301566,-66.006562
+35031,'','McAllister Dr & Highmeadow Dr',45.301229,-66.006548
+35032,'','Revenue Canada - Mtn Vw Dr',45.303107,-66.00706
+35033,'','Revenue Canada - Mtn Vw Dr',45.303311,-66.007136
+35034,'','Mtn Vw Dr & Carlile Cr',45.30666,-66.004852
+35035,'','Mtn Vw Dr & Carlile Cr',45.306763,-66.00491
+35036,'','Mtn Vw Dr & Mtn Rd',45.309292,-66.004037
+35037,'','Mtn Vw Dr & Mtn Rd',45.309304,-66.004278
+35038,'','65 Mtn Rd',45.309404,-66.006303
+35039,'','70 Mtn Rd',45.309318,-66.006306
+35040,'','Mtn Rd & Morley Cr',45.309261,-66.011044
+35041,'','Mtn Rd & Morley Cr',45.309364,-66.010657
+35042,'','Mtn Rd & Westmorland Rd',45.311903,-66.012943
+35043,'','Westmorland Rd & Braemar Dr',45.311967,-66.01386
+35044,'','Westmorland Rd & McAllister Dr',45.310648,-66.015209
+35045,'','Westmorland Rd & McAllister Dr',45.31076,-66.015455
+35046,'','Westmorland Rd & Hubert St',45.309438,-66.016572
+35047,'','Westmorland Rd & Hubert St',45.30986,-66.016448
+35074,'','Bayside Dr & Pk Av',45.281732,-66.037957
+35078,'','Loch Lomond Rd & Eldersley Av',45.325182,-65.935809
+35086,'','McAllister Dr & Hubert St',45.309843,-66.014379
+35087,'','Golden Grv Rd & Simpson Dr',45.314446,-66.022798
+35089,'','Gault Rd & Pipe Line Rd W',45.238615,-66.143161
+35090,'','Gault Rd & Pipe Line Rd W',45.238581,-66.143333
+35093,'','Gault Rd & Valentine Blvd',45.242072,-66.144309
+35094,'','Gault Rd & Valentine Blvd',45.24213,-66.144109
+35095,'','276 Gault Rd',45.244118,-66.144687
+35096,'','277 Gault Rd',45.244098,-66.144861
+35097,'','Gault Rd & Hayes Ave',45.250156,-66.142598
+35098,'','Gault Rd & Hayes Ave',45.250195,-66.142706
+35099,'','60 Golden Grv Rd',45.315274,-66.019041
+35100,'','Golden Grv Rd & Parkhill Dr',45.315707,-66.017148
+35101,'','Golden Grv Rd & Wildwood St',45.316898,-66.011963
+35102,'','Golden Grv Rd & Harmony Dr',45.317554,-66.010082
+35103,'','Golden Grv Rd & Westmorland Rd',45.319548,-66.004851
+35104,'','Coldbrook Cr & Mystery Lk Dr',45.320335,-66.00115
+35106,'','Roxbury Dr & Reading Cr',45.321508,-66.006836
+35107,'','Across From 1 Roxbury Dr',45.320823,-66.007706
+35108,'','13 John T McMillian Ave',45.321657,-66.010522
+35109,'','Belgian Rd & John T McMillan Av',45.322448,-66.011616
+35111,'','Gln Rd & Connaught Ave',45.321745,-66.015947
+35112,'','Gln Rd & Simpson Dr',45.322181,-66.018922
+35113,'','Simpson Dr & Broadway Av',45.321019,-66.020849
+35114,'','Simpson Dr & Holland St',45.31836,-66.022057
+35115,'','Simpson Dr & Princess Ct',45.316567,-66.022651
+35116,'','Simpson Dr & Golden Grv Rd',45.314775,-66.023223
+35123,'','Parkside Rd P&R',45.415623,-65.939683
+35124,'','Kennebecasis Baptist United Church',45.421344,-65.951568
+35125,'','Quispamsis Arts & Culture Pk',45.408065,-65.968459
+35126,'','Lila Ct Pk',45.404989,-65.970047
+35127,'','Rothesay HS',45.393597,-65.987427
+35128,'','Rothesay Common',45.389889,-65.997258
+35129,'','Across From Riverside Country Club',45.371656,-66.009505
+35130,'','Across From 1700 Rothesay Rd',45.347578,-66.017963
+35131,'','1700 Rothesay Rd',45.34751,-66.017762
+35132,'','Riverside Country Club',45.371627,-66.009287
+35133,'','Rothesay Common',45.389805,-65.997179
+35134,'','Rothesay Town Hall',45.393472,-65.987242
+35135,'','Hampton Rd & Donlyn Dr',45.404657,-65.970219
+35138,'','233 Loch Lomond Rd',45.290961,-66.027494
+35139,'','244 Loch Lomond Rd',45.290846,-66.027327
+35140,'','Loch Lomond Rd & Linda Crt',45.291227,-66.024933
+35141,'','Across From 255 Loch Lomond Rd',45.29112,-66.024652
+35142,'','Irving Oil Refinery - Loch Lomond Rd',45.291772,-66.021649
+35143,'','Loch Lomond Rd (Across From The Refinery)',45.291841,-66.021852
+35144,'','Commerce Dr & Loch Lomond Rd',45.298012,-66.013048
+35145,'','Commerce Dr & Loch Lomond Rd',45.297936,-66.012938
+35148,'','Loch Lomond Rd & Charles St E',45.310453,-65.972044
+35149,'','Loch Lomond Rd & Charles St E',45.310365,-65.971934
+35150,'','2075 Loch Lomond Rd',45.314256,-65.964684
+35151,'','2074 Loch Lomond Rd',45.314097,-65.964749
+35152,'','Loch Lomond Rd & Wayne''s Way',45.315953,-65.959783
+35153,'','Loch Lomond Rd & Wayne''s Way',45.315865,-65.95968
+35154,'','Loch Lomond Rd & Greenwood St',45.318479,-65.947878
+35156,'','Loch Lomond Rd & Greenwood St',45.318607,-65.947977
+35157,'','Loch Lomond Rd & Eldersley Av',45.325406,-65.935724
+35158,'','Loch Lomond Rd & Greenhill Rd',45.326748,-65.933318
+35159,'','Loch Lomond Rd & Greenhill Rd',45.326856,-65.933449
+35160,'','Loch Lomond Rd & Norris Rd',45.330838,-65.924821
+35161,'','Loch Lomond Rd & Norris Rd',45.330907,-65.924987
+35162,'','Loch Lomond Rd & Churchland Rd',45.331858,-65.922414
+35163,'','Loch Lomond Rd & Churchland Rd',45.331715,-65.922431
+35164,'','Loch Lomond Rd & Sproule Rd',45.333366,-65.913449
+35165,'','Loch Lomond Rd & Sproule Rd',45.333223,-65.913734
+35166,'','Loch Lomond Rd & Evergreen Av',45.333118,-65.900668
+35167,'','Loch Lomond Rd & Evergreen Av',45.333297,-65.900655
+35168,'','Airport Store - Loch Lomond Rd',45.330157,-65.892248
+35169,'','Airport Store - Loch Lomond Rd',45.330024,-65.892565
+35170,'','St John Airport',45.330705,-65.889801
+35171,'','St John Airport',45.330797,-65.889921
+35172,'','Loch Lomond Rd & Johnston Rd',45.335428,-65.881517
+35173,'','Loch Lomond Rd & Johnston Rd',45.335226,-65.881626
+35174,'','Loch Lomond Rd & St Martins Rd',45.341329,-65.869891
+35175,'','Loch Lomond Rd & St Martins Rd',45.341402,-65.870463
+35176,'','Range Rd & Garnett Settlement Rd',45.324019,-65.851943
+35177,'','Range Rd & Route 111',45.333382,-65.841303
+35178,'','Willow Grv Store',45.332862,-65.838695
+35179,'','Wentworth St & Queen St',45.269836,-66.052096
+35181,'','Wright St & Gooderich St',45.283344,-66.058132
+35182,'','Wright St & Gooderich St',45.283253,-66.058021
+35184,'','Hawthorne Av & Arrow Walk Rd',45.287491,-66.061437
+35185,'','Mt Pleasant Ave',45.284469,-66.062438
+35186,'','5 Corners',45.281853,-66.066184
+35187,'','Bridge St & Victoria St',45.276224,-66.088353
+35188,'','Golden Grv Rd & Mystery Lk Dr',45.321344,-66.001205
+35189,'','Across From 38 John T McMillian Ave',45.320317,-66.009566
+35190,'','Sandy Pt Rd',45.291666,-66.068501
+35192,'','Tim Horton''s - King St W',45.260323,-66.075965
+35198,'','Heather Way & Eagle Blvd',45.297045,-65.985928
+35199,'','Heather Way & Eagle Blvd',45.297023,-65.985503
+35200,'','Westmorland Rd & Braemar Dr',45.31186,-66.013779
+35201,'','Willie Av & Riley Dr',45.316737,-65.985299
+35202,'','Loch Lomond Rd & Whalen Rd',45.339158,-65.874128
+35203,'','Loch Lomond Rd & Whalen Rd',45.339034,-65.873946
+35204,'','Boars Head Rd & Woodward Av',45.292868,-66.112584
+35205,'','Kennebec Mnr - Woodward Ave',45.293904,-66.111072
+35206,'','Kennebec Mnr - Woodward Ave',45.29377,-66.111026
+35207,'','Millidge Av & Pk Lawn Ct',45.299683,-66.101441
+35208,'','Churchill Blvd & Memorial Court',45.282276,-66.078246
+35209,'','Westfield Rd & John Grn Roadway',45.25927,-66.152591
+35210,'','Westfield Rd & John Grn Roadway',45.259171,-66.152715
+35211,'','Westfield Rd & Ketepec Rd',45.280339,-66.158835
+35212,'','Westfield Rd & Ketepec Rd',45.280261,-66.158993
+35213,'','Westfield Rd & Woodside Dr',45.288714,-66.165556
+35214,'','Westfield Rd & Woodside Dr',45.288591,-66.165659
+35215,'','Westfield Rd & Clark Rd #1',45.288708,-66.17064
+35216,'','Westfield Rd & Clark Rd #1',45.288585,-66.170669
+35217,'','Westfield Rd & Olsen Rd',45.28911,-66.17632
+35218,'','Westfield Rd & Olsen Rd',45.288988,-66.176354
+35219,'','Westfield Rd & Buckley Rd',45.289572,-66.18504
+35220,'','Westfield Rd & Buckley Rd',45.289449,-66.185126
+35221,'','Westfield Rd & Woodland Rd',45.289891,-66.187561
+35222,'','Westfield Rd & Woodland Rd',45.289766,-66.187652
+35223,'','Loch Lomond Rd & Jean St',45.288869,-66.035874
+35224,'','Loch Lomond Rd & Jean St',45.288679,-66.035939
+35225,'','Retail Dr & Oakland St',45.307598,-66.029152
+35226,'','Retail Dr',45.302133,-66.025453
+35228,'','Sand Cv Rd & Danells Dr',45.24683,-66.092051
+35232,'','Manawagonish Rd & Orange St W',45.256319,-66.100919
+35233,'','Main St W & Walnut St',45.257004,-66.098852
+35234,'','Central Av & Fenton Dr',45.247934,-66.118589
+35235,'','Central Av & Fenton Dr',45.247962,-66.118426
+35238,'','Horsler Dr & Hillcrest Dr',45.243312,-66.117335
+35239,'','Horsler Dr & Hillcrest Dr',45.243248,-66.117171
+35247,'','Kennebecasis Dr & Lentook Av',45.321395,-66.077173
+35250,'','Cherry Brk Zoo',45.321768,-66.069097
+35251,'','Cherry Brk Zoo',45.321595,-66.068716
+35252,'','Rockwood Pk Golf Course',45.310416,-66.078274
+35253,'','Rockwood Pk Golf Course',45.3104,-66.078083
+35254,'','McDonald St & Pk Av',45.288996,-66.029607
+35255,'','McDonald St & Pk Av',45.289065,-66.0294
+35258,'','36 Parks St Ext',45.284015,-66.066959
+35259,'','124 Parks St Ext',45.286061,-66.06521
+35267,'','Anglin Dr & Thornbrough St',45.286301,-66.07023
+35276,'','King St E & Carmarthen St',45.274192,-66.055252
+35282,'','Sobeys - Plz Av',45.248767,-66.102421
+35283,'','Retail Dr & Oakland St',45.307733,-66.02903
+35284,'','E Pt Way',45.302996,-66.028427
+35285,'','Retail Dr & Fashion Dr',45.302608,-66.025696
+35292,'','Boyd St',45.28719,-66.053394
+35293,'','River Vly CC',45.320954,-66.196188
+35295,'','Qplex',45.439881,-65.974833
+35299,'','Quispamsis Arts & Culture Pk',45.40813,-65.968134
+35302,'','E Pt Way',45.303134,-66.02862
+35303,'','Costco',45.304532,-66.026879
+35304,'','Costco',45.304465,-66.026662
+35306,'','Canadian Tire - Westmorland Rd',45.304266,-66.02055
+35308,'','Bayside MS',45.284587,-66.040422
+35309,'','Bayside MS',45.284483,-66.040673
+35310,'','15 Bayside Dr',45.286586,-66.042196
+35311,'','6 Bayside Dr',45.286516,-66.042461
+35312,'','Loch Lomond Rd & McAllister Dr',45.299624,-66.006665
+35313,'','Loch Lomond Rd & McAllister Dr',45.29948,-66.00656
+35314,'','Across From Kent - Consumers Dr',45.307026,-66.022908
+35315,'','Kent - Consumers Dr',45.306923,-66.022997
+35316,'','Across From Winners - Majors Brk Dr',45.30877,-66.022684
+35317,'','Pkwy Mall - Majors Brk Dr',45.310913,-66.020027
+35318,'','Across From Pkwy Mall - Majors Brk Dr',45.310994,-66.020147
+35319,'','Brunswick Dr & Exmouth St',45.279521,-66.053158
+35320,'','Brunswick Dr & Exmouth St',45.279519,-66.053318
+35321,'','Metcalf St & Lansdowne Av',45.276219,-66.07736
+35322,'','Thornbrough St & Kiwanis Ct',45.285366,-66.072015
+35323,'','Carmarthen St & Union St',45.27525,-66.055724
+35324,'','Pitt St & Orange St',45.272604,-66.051193
+35325,'','Seely St & Mt Pleasant Ave',45.286633,-66.055348
+35326,'','King St W & Mkt Pl',45.261155,-66.074819
+35327,'','King St W & Ludlow St',45.259852,-66.0761
+35328,'','Duke St W & Watson St',45.25838,-66.076287
+35329,'','Duke St W & City Line',45.256777,-66.07784
+35330,'','Duke St W & Champlain St',45.255866,-66.078373
+35331,'','Champlain St & Charlotte St W',45.254643,-66.075511
+35332,'','Champlain St & Charlotte St W',45.254575,-66.075594
+35333,'','Charlotte St W & Lancaster St',45.255982,-66.073949
+35334,'','Charlotte St W & Lancaster St',45.255932,-66.073761
+35335,'','Charlotte St W & Watson St',45.257038,-66.072709
+35336,'','Charlotte St W & Watson St',45.257108,-66.072835
+35337,'','Ludlow St & Charlotte St W',45.257976,-66.071607
+35338,'','Ludlow St & Charlotte St W',45.257769,-66.071526
+35339,'','St.John St & Watson St',45.255663,-66.070578
+35340,'','St John St & Lancaster St',45.254328,-66.071661
+35341,'','City Line & Clifton St W',45.25325,-66.071005
+35342,'','City Line & Clifton St W',45.253304,-66.070805
+35343,'','Woodville Rd & City Line',45.252439,-66.069875
+35344,'','Chapel St & Woodville Rd',45.251267,-66.071466
+35345,'','677 Chapel St',45.252065,-66.07333
+35346,'','Lancaster Av & Dufferin Row',45.252204,-66.075032
+35347,'','Lancaster Av & Dufferin Row',45.252134,-66.075115
+35348,'','Lancaster Av & Charlotte St W',45.25301,-66.07634
+35349,'','Lancaster Av & Charlotte St W',45.25294,-66.076467
+35350,'','Lancaster Av & Maple Row',45.253931,-66.077991
+35351,'','Lancaster Av & Maple Row',45.25384,-66.078092
+35352,'','476 Lancaster Ave',45.253624,-66.08064
+35353,'','Lancaster Av & Havelock St',45.253619,-66.083824
+35354,'','Dunn Ave & Young St',45.251594,-66.086062
+35355,'','Dunn Av & Fundy Dr',45.249776,-66.086612
+35356,'','Dunn Av & Argyle St',45.248663,-66.087121
+35357,'','Sand Cv Rd & Molson Ave',45.24702,-66.089942
+35358,'','Sand Cv Rd & Danells Dr',45.246694,-66.092117
+35359,'','Bleury St & Danells Dr',45.24715,-66.093355
+35360,'','Manawagonish Rd & Ambercrest Ct',45.238352,-66.120002
+35361,'','Manawagonish Rd & Ambercrest Ct',45.23821,-66.119886
+35362,'','Manawagonish Rd & Centennial Dr',45.239578,-66.118517
+35363,'','Manawagonish Rd & Centennial Dr',45.239522,-66.118364
+35364,'','Manawagonish Rd & Scotiaview Dr',45.245615,-66.114555
+35365,'','Manawagonish Rd & Scotiaview Dr',45.245444,-66.114489
+35366,'','Manchester Av & Manawagonish Rd',45.248896,-66.112238
+35367,'','Manchester Av & Sunset Dr',45.250539,-66.115725
+35368,'','Manchester Av & Sunset Dr',45.250455,-66.115849
+35369,'','Manchester Av & Dever Rd',45.252075,-66.119757
+35370,'','Manchester Av & Dever Rd',45.251973,-66.11981
+35371,'','Manchester Av & Glenwood Dr',45.252193,-66.124167
+35372,'','Manchester Av & Glenwood Dr',45.252258,-66.123928
+35373,'','Greendale Cr & Mollins Dr',45.251281,-66.110732
+35374,'','Greendale Cr & Mollins Dr',45.251164,-66.110801
+35375,'','Greendale Cr & Dever Rd',45.255619,-66.110414
+35376,'','Greendale Cr & Dever Rd',45.255533,-66.11056
+35377,'','Dever Rd & Grn Head Rd',45.257529,-66.105543
+35378,'','Dever Rd & Grn Head Rd',45.257416,-66.105461
+35379,'','Grand Bay-Westfield Community Centrum',45.315839,-66.194882
+35380,'','Grand Bay-Westfield Community Centrum',45.315817,-66.195094
+35381,'','River Vly Dr & Woolastook Dr',45.308338,-66.194601
+35382,'','River Vly Dr & Woolastook Dr',45.308362,-66.194743
+35383,'','Newman St & Shamrock Ct',45.277637,-66.084246
+35384,'','Albert St & Victoria St',45.27664,-66.084746
+35385,'','Albert St & Victoria St',45.276669,-66.084606
+35386,'','Main St & Cedar St',45.275218,-66.085256
+35387,'','Across From Robertson Sq - Bridge St',45.27507,-66.088001
+35388,'','Bridge St & Victoria St',45.276142,-66.088197
+35389,'','Pokiok Rd & Bridge St',45.277715,-66.089494
+35390,'','Belleview Ave & Pokiok Rd',45.278104,-66.091429
+35391,'','Belleview Av & Highland Rd',45.27888,-66.09095
+35392,'','Spar Cv Rd & Millidge Ave',45.283078,-66.087335
+35393,'','St Joseph''s Catholic Church Loch Lomond Rd',45.334402,-65.883544
+35394,'','Hampton Rd, Across From Sierra Av',45.399848,-65.977676
+35395,'','Kennebecasis Dr & Lentook Av',45.321486,-66.077338
+35396,'','Kennebecasis Baptist Church',45.421242,-65.951311
+35397,'','Irving Oil Field House',45.313165,-66.016753
