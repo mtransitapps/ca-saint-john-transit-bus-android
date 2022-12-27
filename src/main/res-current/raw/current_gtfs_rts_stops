@@ -57,9 +57,9 @@
 34381,'','Westmorland Rd & Depot Ct',45.302862,-66.022207
 34382,'','Canadian Tire - Westmorland Rd',45.303998,-66.021158
 34383,'','Best Buy - Consumers Dr',45.306275,-66.021134
-34384,'','Winners - Majors Brk Dr',45.308654,-66.022552
+34384,'','Winners - Majors Brk Dr',45.308665,-66.022592
 34385,'','Across From Best Buy - Consumers Dr',45.306183,-66.021252
-34387,'','Walmart - Westmorland Rd',45.307476,-66.018455
+34387,'','Walmart - Westmorland Rd',45.307457,-66.018414
 34388,'','Consumers Dr & Westmorland Rd',45.305043,-66.018388
 34389,'','Consumers Dr & Westmorland Rd',45.305038,-66.018772
 34390,'','35 Consumers Dr',45.304342,-66.017114
@@ -98,7 +98,7 @@
 34433,'','10 Mkt Sq',45.27267,-66.062615
 34435,'','Hilyard Pl - Main St',45.276462,-66.070795
 34436,'','Hilyard Pl - Main St',45.27636,-66.070259
-34439,'','Main St & Lansdowne Av',45.275355,-66.076619
+34439,'','Main St & Lansdowne Av',45.275324,-66.076628
 34442,'','60 Douglas Ave',45.273765,-66.079013
 34444,'','Main St & Simonds St',45.275418,-66.072893
 34445,'','Douglas Av & Alexandra St',45.270582,-66.081127
@@ -163,7 +163,7 @@
 34539,'','Coburg St & Paddock St',45.277468,-66.059027
 34540,'','St Joeph''s Hosp',45.278725,-66.058426
 34541,'','King St & Germain St',45.273155,-66.060176
-34542,'','Mercantile Ctr',45.274559,-66.064901
+34542,'','Mercantile Ctr',45.274524,-66.064932
 34545,'','Lansdowne Av & Visart St',45.279629,-66.076525
 34546,'','Lansdowne Av & Visart St',45.279663,-66.076779
 34547,'','Visart St & Churchill Blvd',45.280035,-66.077926
@@ -625,7 +625,7 @@
 35259,'','124 Parks St Ext',45.286061,-66.06521
 35267,'','Anglin Dr & Thornbrough St',45.286301,-66.07023
 35276,'','King St E & Carmarthen St',45.274192,-66.055252
-35282,'','Sobeys - Plz Av',45.248802,-66.102388
+35282,'','Sobeys - Plz Av',45.248767,-66.102421
 35283,'','Retail Dr & Oakland St',45.307733,-66.02903
 35284,'','E Pt Way',45.302996,-66.028427
 35285,'','Retail Dr & Fashion Dr',45.302608,-66.025696
@@ -636,7 +636,6 @@
 35302,'','E Pt Way',45.303134,-66.02862
 35303,'','Costco',45.304532,-66.026879
 35304,'','Costco',45.304465,-66.026662
-35305,'','Fairville Blvd Plz',45.247975,-66.102951
 35306,'','Canadian Tire - Westmorland Rd',45.304266,-66.02055
 35308,'','Bayside MS',45.284587,-66.040422
 35309,'','Bayside MS',45.284483,-66.040673
@@ -647,7 +646,7 @@
 35314,'','Across From Kent - Consumers Dr',45.307026,-66.022908
 35315,'','Kent - Consumers Dr',45.306923,-66.022997
 35316,'','Across From Winners - Majors Brk Dr',45.30877,-66.022684
-35317,'','Pkwy Mall - Majors Brk Dr',45.310909,-66.019928
+35317,'','Pkwy Mall - Majors Brk Dr',45.310913,-66.020027
 35318,'','Across From Pkwy Mall - Majors Brk Dr',45.310994,-66.020147
 35319,'','Brunswick Dr & Exmouth St',45.279521,-66.053158
 35320,'','Brunswick Dr & Exmouth St',45.279519,-66.053318
@@ -727,3 +726,4 @@
 35394,'','Hampton Rd, Across From Sierra Av',45.399848,-65.977676
 35395,'','Kennebecasis Dr & Lentook Av',45.321486,-66.077338
 35396,'','Kennebecasis Baptist Church',45.421242,-65.951311
+35397,'','Irving Oil Field House',45.313165,-66.016753
