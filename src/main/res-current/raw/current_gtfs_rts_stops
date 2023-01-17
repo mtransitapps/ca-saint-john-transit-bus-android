@@ -115,7 +115,6 @@
 34456,'','Bridge Rd & Mill Rd',45.258321,-66.089858
 34458,'','Simms Corner - Bridge Rd',45.256762,-66.092192
 34460,'','Simms Corner',45.256516,-66.093165
-34461,'','572 Harding St W',45.256296,-66.09464
 34462,'','630 Harding St W',45.254868,-66.095678
 34463,'','Lancaster Mall',45.254053,-66.093132
 34466,'','Simms Corner - Bridge Rd',45.256706,-66.092527
@@ -299,62 +298,8 @@
 34725,'','Mt Pleasant Ave & Arrow Walk Rd',45.287297,-66.059805
 34726,'','Mt Pleasant Ave & Burpee St',45.282736,-66.063775
 34727,'','Bleury St & Sherbrooke St',45.249884,-66.093542
-34740,'','Main St W & Harding St W',45.256482,-66.094671
-34741,'','TD Canada Trust Bank - Main St W',45.256787,-66.097339
-34742,'','Moosehead Brewery - Main St W',45.256937,-66.097296
-34743,'','15 Main St W',45.257095,-66.099451
-34750,'','Grn Head Rd & Milford Rd',45.261947,-66.10574
-34752,'','Grn Head Rd & Balmoral Cr',45.26383,-66.109264
-34754,'','420 Grn Head Rd',45.265059,-66.111845
-34756,'','Dwyer Rd & Russell Hl Rd',45.268829,-66.112208
-34758,'','Dwyer Rd & Balmoral Cr',45.2697,-66.108867
-34760,'','Kingsville Rd & Primrose St',45.269792,-66.104611
-34761,'','Kingsville Rd & Violet St',45.268577,-66.103339
-34762,'','Kingsville Rd & Hawtrey St',45.267915,-66.102116
-34763,'','Kingsville Rd & Milford Rd',45.267746,-66.10097
-34764,'','Milford Rd & Kingsville Rd',45.267886,-66.100929
-34767,'','205 Milford Rd',45.271325,-66.10184
-34768,'','210 Milford Rd',45.27129,-66.101984
-34770,'','135 Milford Rd',45.273028,-66.100799
-34771,'','134 Milford Rd',45.273066,-66.100957
-34772,'','113 Milford Rd',45.273683,-66.10056
-34774,'','110 Milford Rd',45.273741,-66.10075
-34775,'','Allison St & Francis St',45.273183,-66.098909
-34776,'','38 Milford Rd',45.2738,-66.097653
-34777,'','Milford Rd & Williams St',45.266645,-66.101233
-34778,'','Milford Rd & Violet St',45.265023,-66.102862
-34779,'','Grn Head Rd & Milford Rd',45.262032,-66.105541
 34789,'','843 Bleury St',45.248936,-66.093272
 34790,'','Across From 843 Bleury St',45.248957,-66.09347
-34793,'','468 Grn Head Rd',45.265976,-66.112919
-34794,'','490 Grn Head Rd',45.267243,-66.112665
-34795,'','Dwyer Rd & River Hl Dr',45.269942,-66.107233
-34796,'','233 Milford Rd',45.270047,-66.100571
-34797,'','244 Milford Rd',45.270014,-66.100712
-34798,'','162 Milford Rd',45.272357,-66.101348
-34799,'','Across From 162 Milford Rd',45.272288,-66.101227
-34801,'','462 Milford Rd',45.264216,-66.104034
-34802,'','Manawagonish Rd & Coster St',45.254613,-66.102245
-34803,'','Manawagonish Rd & Coster St',45.254667,-66.102416
-34804,'','Birch St & Manawagonish Rd',45.253103,-66.103778
-34805,'','Birch St & Manawagonish Rd',45.252989,-66.103848
-34806,'','Manawagonish Rd & Orange St W',45.256542,-66.100976
-34807,'','Dexter Dr & Mollins Dr',45.253442,-66.106142
-34808,'','Dexter Dr & Mollins Dr',45.253565,-66.105842
-34809,'','157 Greendale Cresent',45.253332,-66.110162
-34810,'','154 Greendale Cresent',45.253214,-66.110138
-34825,'','Anderson Dr & Edgehill Row',45.251382,-66.118932
-34826,'','Anderson Dr & Edgehill Row',45.251507,-66.119073
-34827,'','Anderson Dr & Lorne Ave',45.249219,-66.118225
-34828,'','Anderson Dr & Lorne Ave',45.249207,-66.118366
-34829,'','Central Ave',45.246295,-66.117757
-34830,'','Central Ave',45.246523,-66.118349
-34831,'','Quinton Ave & Central Ave',45.244797,-66.116993
-34832,'','Quinton Ave & Central Ave',45.244786,-66.117173
-34833,'','Horsler Dr & Harbary Terr',45.242282,-66.118311
-34834,'','Horsler Dr & Harbary Terr',45.242329,-66.11804
-34835,'','Centennial Dr & Horsler Dr',45.240152,-66.120481
-34836,'','Centennial Dr & Horsler Dr',45.240031,-66.120462
 34839,'','1650 Manawagonish Rd',45.235377,-66.124059
 34840,'','1655 Manawagonish Rd',45.235277,-66.123975
 34841,'','Manawagonish Rd & Fairville Blvd',45.237442,-66.120625
@@ -363,13 +308,6 @@
 34850,'','Manawagonish Rd & Westgate Dr',45.233901,-66.135054
 34855,'','Manawagonish Rd',45.234773,-66.138107
 34856,'','Across From 1918 Manawagonish Rd',45.234661,-66.138255
-34877,'','Manawagonish Rd',45.241073,-66.117651
-34878,'','Manawagonish Rd',45.241128,-66.117435
-34879,'','Manawagonish Rd & Hillcrest Dr',45.243062,-66.116266
-34880,'','Manawagonish Rd & Hillcrest Dr',45.243259,-66.116315
-34881,'','Manchester Av & Manawagonish Rd',45.249053,-66.112222
-34882,'','Manawagonish Rd (Hillcrest Vlg)',45.247765,-66.112837
-34883,'','Manawagonish Rd (Hillcrest Vlg)',45.247707,-66.112623
 34894,'','Fairville Blvd & Catherwood St',45.253256,-66.097342
 34895,'','Fairville Blvd & Catherwood St',45.253047,-66.097221
 34896,'','Westwind Pl',45.252033,-66.100004
@@ -383,7 +321,6 @@
 34904,'','Fairville Blvd & Linton Rd',45.244696,-66.110923
 34905,'','Fairville Blvd & Linton Rd',45.24478,-66.111204
 34906,'','Fairville Blvd & Manawagonish Rd',45.237949,-66.119464
-34909,'','Ridgewood',45.254714,-66.128206
 34911,'','Gault Rd & Westfield Rd',45.252413,-66.140523
 34912,'','Westfield Rd & Gault Rd',45.252576,-66.141308
 34913,'','Westfield Rd & Grenville Ln',45.262541,-66.155268
@@ -605,12 +542,6 @@
 35225,'','Retail Dr & Oakland St',45.307598,-66.029152
 35226,'','Retail Dr',45.302133,-66.025453
 35228,'','Sand Cv Rd & Danells Dr',45.24683,-66.092051
-35232,'','Manawagonish Rd & Orange St W',45.256319,-66.100919
-35233,'','Main St W & Walnut St',45.257004,-66.098852
-35234,'','Central Av & Fenton Dr',45.247934,-66.118589
-35235,'','Central Av & Fenton Dr',45.247962,-66.118426
-35238,'','Horsler Dr & Hillcrest Dr',45.243312,-66.117335
-35239,'','Horsler Dr & Hillcrest Dr',45.243248,-66.117171
 35247,'','Kennebecasis Dr & Lentook Av',45.321395,-66.077173
 35250,'','Cherry Brk Zoo',45.321768,-66.069097
 35251,'','Cherry Brk Zoo',45.321595,-66.068716
@@ -677,25 +608,6 @@
 35357,'','Sand Cv Rd & Molson Ave',45.24702,-66.089942
 35358,'','Sand Cv Rd & Danells Dr',45.246694,-66.092117
 35359,'','Bleury St & Danells Dr',45.24715,-66.093355
-35360,'','Manawagonish Rd & Ambercrest Ct',45.238352,-66.120002
-35361,'','Manawagonish Rd & Ambercrest Ct',45.23821,-66.119886
-35362,'','Manawagonish Rd & Centennial Dr',45.239578,-66.118517
-35363,'','Manawagonish Rd & Centennial Dr',45.239522,-66.118364
-35364,'','Manawagonish Rd & Scotiaview Dr',45.245615,-66.114555
-35365,'','Manawagonish Rd & Scotiaview Dr',45.245444,-66.114489
-35366,'','Manchester Av & Manawagonish Rd',45.248896,-66.112238
-35367,'','Manchester Av & Sunset Dr',45.250539,-66.115725
-35368,'','Manchester Av & Sunset Dr',45.250455,-66.115849
-35369,'','Manchester Av & Dever Rd',45.252075,-66.119757
-35370,'','Manchester Av & Dever Rd',45.251973,-66.11981
-35371,'','Manchester Av & Glenwood Dr',45.252193,-66.124167
-35372,'','Manchester Av & Glenwood Dr',45.252258,-66.123928
-35373,'','Greendale Cr & Mollins Dr',45.251281,-66.110732
-35374,'','Greendale Cr & Mollins Dr',45.251164,-66.110801
-35375,'','Greendale Cr & Dever Rd',45.255619,-66.110414
-35376,'','Greendale Cr & Dever Rd',45.255533,-66.11056
-35377,'','Dever Rd & Grn Head Rd',45.257529,-66.105543
-35378,'','Dever Rd & Grn Head Rd',45.257416,-66.105461
 35379,'','Grand Bay-Westfield Community Centrum',45.315839,-66.194882
 35380,'','Grand Bay-Westfield Community Centrum',45.315817,-66.195094
 35381,'','River Vly Dr & Woolastook Dr',45.308338,-66.194601
