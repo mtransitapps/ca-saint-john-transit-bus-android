@@ -187,7 +187,6 @@
 34571,'','University Av & Varsity St',45.300111,-66.08442,0
 34573,'','St John Regional Hosp',45.301529,-66.085037,0
 34574,'','St John Regional Hosp',45.30305,-66.083416,0
-34576,'','Tucker Pk Rd',45.306721,-66.078947,0
 34577,'','Student Union Hall - UNBSJ',45.306801,-66.086144,0
 34578,'','Annex - UNBSJ',45.304826,-66.085434,0
 34580,'','Millidge Av & Natalie St',45.28105,-66.080891,0
@@ -209,7 +208,6 @@
 34599,'','Churchill Blvd & Balfour St',45.282302,-66.078059,0
 34600,'','Lansdowne Ave',45.277811,-66.076705,0
 34601,'','75 Lansdowne Ave',45.277672,-66.076993,0
-34608,'','171 Adelaide St',45.279338,-66.08061,0
 34610,'','Adelaide St & Harrington St',45.278188,-66.080467,0
 34611,'','Harrington St & Visart St',45.279997,-66.079237,0
 34612,'','Spar Cv Rd & Millidge Ave',45.28311,-66.087471,0
@@ -221,28 +219,6 @@
 34618,'','Albert St & Metcalf St',45.275944,-66.084342,0
 34619,'','Newman St & Shamrock Ct',45.277499,-66.084287,0
 34620,'','Newman St & Adelaide St',45.277491,-66.080684,0
-34623,'','Boars Head Rd & Millidge Av',45.29071,-66.094918,0
-34624,'','Boars Head Rd & Millidge Av',45.290594,-66.094827,0
-34625,'','Boars Head Rd & McIntosh St',45.291195,-66.099377,0
-34626,'','Boars Head Rd & McIntosh St',45.291152,-66.099687,0
-34627,'','Boars Head Rd & Cambridge Dr',45.292383,-66.106264,0
-34628,'','Boars Head Rd & Cambridge Dr',45.292273,-66.106505,0
-34629,'','Boars Head Rd & Woodward Av',45.292995,-66.112582,0
-34630,'','Woodward Av & Brentwood Cr',45.293551,-66.106085,0
-34631,'','Woodward Av & Brentwood Cr',45.293468,-66.106309,0
-34632,'','Across From 298 Woodward Ave',45.29325,-66.103944,0
-34633,'','298 Woodward Ave',45.293391,-66.103872,0
-34634,'','Air Canada Call Ctr - Woodward Ave',45.293295,-66.101884,0
-34635,'','40 Woodward Ave',45.293443,-66.101837,0
-34636,'','Ray St & Black St',45.295149,-66.102177,0
-34637,'','Black St & Ray St',45.295326,-66.102367,0
-34638,'','Black St & Daniel Av',45.297138,-66.101661,0
-34639,'','Black St & Daniel Av',45.297137,-66.101505,0
-34640,'','Daniel Av & Millidge Av',45.297656,-66.100464,0
-34641,'','Millidge Av & Daniel Av',45.297997,-66.0998,0
-34642,'','Millidge Av & Pk Lawn Ct',45.299744,-66.10127,0
-34643,'','Kennebecasis Dr & Meadowbank Av',45.302215,-66.099677,0
-34644,'','Kennebecasis Dr & Meadowbank Av',45.302056,-66.100066,0
 34652,'','Metcalf St & Lansdowne Av',45.276009,-66.076805,0
 34655,'','Wellesley Av & Dufferin Av',45.278556,-66.075617,0
 34659,'','Wellesley Ave & Fegan Ct',45.27969,-66.073937,0
@@ -518,10 +494,6 @@
 35201,'','Willie Av & Riley Dr',45.316737,-65.985299,0
 35202,'','Loch Lomond Rd & Whalen Rd',45.339158,-65.874128,0
 35203,'','Loch Lomond Rd & Whalen Rd',45.339034,-65.873946,0
-35204,'','Boars Head Rd & Woodward Av',45.292868,-66.112584,0
-35205,'','Kennebec Mnr - Woodward Ave',45.293904,-66.111072,0
-35206,'','Kennebec Mnr - Woodward Ave',45.29377,-66.111026,0
-35207,'','Millidge Av & Pk Lawn Ct',45.299683,-66.101441,0
 35208,'','Churchill Blvd & Memorial Court',45.282276,-66.078246,0
 35209,'','Westfield Rd & John Grn Roadway',45.25927,-66.152591,0
 35210,'','Westfield Rd & John Grn Roadway',45.259171,-66.152715,0
@@ -542,11 +514,6 @@
 35225,'','Retail Dr & Oakland St',45.307598,-66.029152,0
 35226,'','Retail Dr',45.302133,-66.025453,0
 35228,'','Sand Cv Rd & Danells Dr',45.24683,-66.092051,0
-35247,'','Kennebecasis Dr & Lentook Av',45.321395,-66.077173,0
-35250,'','Cherry Brk Zoo',45.321768,-66.069097,0
-35251,'','Cherry Brk Zoo',45.321595,-66.068716,0
-35252,'','Rockwood Pk Golf Course',45.310416,-66.078274,0
-35253,'','Rockwood Pk Golf Course',45.3104,-66.078083,0
 35254,'','McDonald St & Pk Av',45.288996,-66.029607,0
 35255,'','McDonald St & Pk Av',45.289065,-66.0294,0
 35258,'','36 Parks St Ext',45.284015,-66.066959,0
@@ -612,18 +579,8 @@
 35380,'','Grand Bay-Westfield Community Centrum',45.315817,-66.195094,0
 35381,'','River Vly Dr & Woolastook Dr',45.308338,-66.194601,0
 35382,'','River Vly Dr & Woolastook Dr',45.308362,-66.194743,0
-35383,'','Newman St & Shamrock Ct',45.277637,-66.084246,0
-35384,'','Albert St & Victoria St',45.27664,-66.084746,0
 35385,'','Albert St & Victoria St',45.276669,-66.084606,0
-35386,'','Main St & Cedar St',45.275218,-66.085256,0
-35387,'','Across From Robertson Sq - Bridge St',45.27507,-66.088001,0
-35388,'','Bridge St & Victoria St',45.276142,-66.088197,0
-35389,'','Pokiok Rd & Bridge St',45.277715,-66.089494,0
-35390,'','Belleview Ave & Pokiok Rd',45.278104,-66.091429,0
-35391,'','Belleview Av & Highland Rd',45.27888,-66.09095,0
-35392,'','Spar Cv Rd & Millidge Ave',45.283078,-66.087335,0
 35393,'','St Joseph''s Catholic Church Loch Lomond Rd',45.334402,-65.883544,0
 35394,'','Hampton Rd, Across From Sierra Av',45.399848,-65.977676,0
-35395,'','Kennebecasis Dr & Lentook Av',45.321486,-66.077338,0
 35396,'','Kennebecasis Baptist Church',45.421242,-65.951311,0
 35397,'','Irving Oil Field House',45.313165,-66.016753,0
