@@ -1,7 +1,8 @@
+3599,'','Mission Ctr',45.316883,-66.005999,0
 34318,'','St Patrick St & Union St',45.27374,-66.064929,0
 34319,'','Sierra Av & Hampton Rd',45.399854,-65.978018,0
 34320,'','King''s Sq N',45.274167,-66.058633,0
-34321,'','Royal Bank - Charlotte St',45.272995,-66.058852,0
+34321,'','Royal Bank - Charlotte St',45.273029,-66.058817,0
 34325,'','Pl 400',45.275073,-66.076703,0
 34326,'','Douglas Ave & Main St N',45.27493,-66.078578,0
 34327,'','Douglas Ave & Main St N',45.274804,-66.0784,0
@@ -58,16 +59,11 @@
 34382,'','Canadian Tire - Westmorland Rd',45.303998,-66.021158,0
 34383,'','Best Buy - Consumers Dr',45.306275,-66.021134,0
 34384,'','Winners - Majors Brk Dr',45.308665,-66.022592,0
-34385,'','Across From Best Buy - Consumers Dr',45.306183,-66.021252,0
 34387,'','Walmart - Westmorland Rd',45.307457,-66.018414,0
 34388,'','Consumers Dr & Westmorland Rd',45.305043,-66.018388,0
 34389,'','Consumers Dr & Westmorland Rd',45.305038,-66.018772,0
 34390,'','35 Consumers Dr',45.304342,-66.017114,0
 34392,'','McAllister Pl',45.306,-66.017632,0
-34394,'','McDonald''s - McAllister Dr',45.311944,-66.020372,0
-34395,'','Michael''s - McAllister Dr',45.312206,-66.022001,0
-34396,'','Exhibition Pk - McAllister Dr',45.312631,-66.022638,0
-34397,'','McAllister Dr & Golden Grv Rd',45.313197,-66.024229,0
 34403,'','Rothesay Ave & Retail Dr',45.308266,-66.030452,0
 34404,'','Deluxe - Rothesay Ave',45.308449,-66.030626,0
 34405,'','Across From 418 Rothesay Ave',45.304388,-66.033891,0
@@ -400,7 +396,6 @@
 35047,'','Westmorland Rd & Hubert St',45.30986,-66.016448,0
 35074,'','Bayside Dr & Pk Av',45.281732,-66.037957,0
 35078,'','Loch Lomond Rd & Eldersley Av',45.325182,-65.935809,0
-35086,'','McAllister Dr & Hubert St',45.309843,-66.014379,0
 35087,'','Golden Grv Rd & Simpson Dr',45.314446,-66.022798,0
 35089,'','Gault Rd & Pipe Line Rd W',45.238615,-66.143161,0
 35090,'','Gault Rd & Pipe Line Rd W',45.238581,-66.143333,0
@@ -465,7 +460,7 @@
 35164,'','Loch Lomond Rd & Sproule Rd',45.333366,-65.913449,0
 35165,'','Loch Lomond Rd & Sproule Rd',45.333223,-65.913734,0
 35166,'','Loch Lomond Rd & Evergreen Av',45.333118,-65.900668,0
-35167,'','Loch Lomond Rd & Evergreen Av',45.333297,-65.900655,0
+35167,'','Loch Lomond Rd & Evergreen Av',45.333263,-65.900626,0
 35168,'','Airport Store - Loch Lomond Rd',45.330157,-65.892248,0
 35169,'','Airport Store - Loch Lomond Rd',45.330024,-65.892565,0
 35170,'','St John Airport',45.330705,-65.889801,0
@@ -539,10 +534,7 @@
 35312,'','Loch Lomond Rd & McAllister Dr',45.299624,-66.006665,0
 35313,'','Loch Lomond Rd & McAllister Dr',45.29948,-66.00656,0
 35314,'','Across From Kent - Consumers Dr',45.307026,-66.022908,0
-35315,'','Kent - Consumers Dr',45.306923,-66.022997,0
-35316,'','Across From Winners - Majors Brk Dr',45.30877,-66.022684,0
 35317,'','Pkwy Mall - Majors Brk Dr',45.310913,-66.020027,0
-35318,'','Across From Pkwy Mall - Majors Brk Dr',45.310994,-66.020147,0
 35319,'','Brunswick Dr & Exmouth St',45.279521,-66.053158,0
 35320,'','Brunswick Dr & Exmouth St',45.279519,-66.053318,0
 35321,'','Metcalf St & Lansdowne Av',45.276268,-66.077297,0
@@ -584,3 +576,27 @@
 35394,'','Hampton Rd, Across From Sierra Av',45.399848,-65.977676,0
 35396,'','Kennebecasis Baptist Church',45.421242,-65.951311,0
 35397,'','Irving Oil Field House',45.313165,-66.016753,0
+35398,'','Forest Hls Pk',45.316954,-66.005597,0
+35400,'','Westmorland Rd & Gerard St',45.313216,-66.010827,0
+35460,'','682 Michael Cr',45.301818,-66.017548,0
+35461,'','568 Michael Cr',45.299283,-66.02088,0
+35462,'','490 Michael Cr',45.297445,-66.021513,0
+35463,'','Nason Rd Playground',45.297268,-66.019072,0
+35464,'','547 Martha Ave',45.29763,-66.01764,0
+35465,'','160 Cindy Lee St',45.298562,-66.019539,0
+35466,'','619 Bonita Ave',45.300022,-66.018895,0
+35467,'','508 Michael Cr',45.296853,-66.020676,0
+35468,'','638 Michael Cr',45.300954,-66.019072,0
+35473,'','Bayside Dr & Courtenay Bay Cswy (EB)',45.280216,-66.036549,0
+35474,'','Spca (EB)',45.277216,-66.033089,0
+35475,'','Bayside Dr & Courtenay Bay Cswy (WB)',45.28025,-66.036426,0
+35476,'','Spca (WB)',45.27731,-66.032853,0
+35477,'','Bayside & Redhead (EB)',45.272901,-66.019292,0
+35478,'','Bayside & Redhead (WB)',45.272969,-66.019453,0
+35479,'','Bayside & Grandview (EB)',45.274267,-66.014968,0
+35480,'','Bayside & Grandview (WB)',45.274252,-66.015172,0
+35481,'','Grandview & Ind (EB)',45.277189,-66.010628,0
+35482,'','Grandview & Ind (WB)',45.277401,-66.0105,0
+35483,'','Gt 8 (EB)',45.278699,-66.007571,0
+35484,'','Gt 8 (WB)',45.278941,-66.007361,0
+100000,'','Grandview Ave & Sherwood Dr',45.285176,-65.9924,0
