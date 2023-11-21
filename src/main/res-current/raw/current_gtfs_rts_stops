@@ -1,6 +1,6 @@
 3599,'','Mission Ctr',45.316883,-66.005999,0
 34318,'','St Patrick St & Union St',45.27374,-66.064929,0
-34319,'','Sierra Av & Hampton Rd',45.399854,-65.978018,0
+34319,'','Sierra Av & Hampton Rd',45.399832,-65.977932,0
 34320,'','King''s Sq N',45.274167,-66.058633,0
 34321,'','Royal Bank - Charlotte St',45.273029,-66.058817,0
 34325,'','Pl 400',45.275073,-66.076703,0
@@ -12,7 +12,7 @@
 34331,'','Golden Ball - Sydney St',45.274747,-66.057275,0
 34332,'','Sydney St & King''s Sq N',45.274432,-66.057472,0
 34333,'','Union St & Carmarthen St',45.275623,-66.055349,0
-34334,'','Prince Edward Sq',45.275894,-66.054643,0
+34334,'','Prince Edward Sq',45.276011,-66.054016,0
 34335,'','Union St & Pitt St',45.276078,-66.052615,0
 34337,'','Union St & Crown St',45.276521,-66.051254,0
 34338,'','Mt Pleasant Ave & Bayside Dr',45.280875,-66.036364,0
@@ -288,12 +288,12 @@
 34899,'','Canadian Tire - Fairville Blvd',45.250302,-66.102091,0
 34900,'','Fairville Blvd & Plz Av',45.248711,-66.103521,0
 34901,'','Fairville Blvd & Plz Av',45.248844,-66.103806,0
-34902,'','Fairville Blvd & Kierstead Rd',45.246912,-66.107295,0
+34902,'','Fairville Blvd & Kierstead Rd',45.246899,-66.107204,0
 34903,'','Fairville Blvd & Kierstead Rd',45.246798,-66.10692,0
 34904,'','Fairville Blvd & Linton Rd',45.244696,-66.110923,0
-34905,'','Fairville Blvd & Linton Rd',45.24478,-66.111204,0
+34905,'','Fairville Blvd & Linton Rd',45.244777,-66.111152,0
 34906,'','Fairville Blvd & Manawagonish Rd',45.237949,-66.119464,0
-34911,'','Gault Rd & Westfield Rd',45.252413,-66.140523,0
+34911,'','Gault Rd & Bay St',45.252413,-66.140523,0
 34912,'','Westfield Rd & Gault Rd',45.252576,-66.141308,0
 34913,'','Westfield Rd & Grenville Ln',45.262541,-66.155268,0
 34914,'','Westfield Rd & Grenville Ln',45.262511,-66.155144,0
@@ -325,7 +325,6 @@
 34955,'','558 Martha Av',45.298159,-66.017347,0
 34956,'','Cindy Lee St & Bonita Av',45.298659,-66.01977,0
 34957,'','620 Bonita Ave',45.299973,-66.018767,0
-34958,'','Mark Dr & Michael Cr',45.301483,-66.016978,0
 34977,'','Loch Lomond Rd & Eugene''s Way',45.302509,-65.996544,0
 34978,'','Nbcc - Grandview Ave',45.285557,-65.993841,0
 34979,'','Nbcc - Grandview Ave',45.285476,-65.993648,0
