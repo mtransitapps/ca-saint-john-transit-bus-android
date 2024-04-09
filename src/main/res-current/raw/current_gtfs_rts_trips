@@ -1,19 +1,19 @@
 100,0,'Lancaster Mall',1
-101,0,'McCallister Pl / Field House',1
+101,0,'McAllister Pl / Field House',1
 301,0,'McAllister Pl',3
-300,0,'Unbsj',3
+300,0,'Regional / Unbsj',3
 901,0,'McAllister Pl',9
-900,0,'UNB Campus',9
+900,0,'UNB',9
 1201,0,'Lancaster Mall',12
 1200,0,'RIver Vly / River Vly',12
-1500,0,'Fairville Blvd Plz',15
-1501,0,'Harbour Bridge South',15
+1501,0,'15S Harbour Bridge',15
+1500,0,'Harbour Bridge Fairville Blvd Plz',15
 2009,0,'Pl 400',20
 2109,0,'South End / St Joseph''s',21
 2309,0,'Ymca',23
 2409,0,'North End',24
-3009,0,'Champlain Hts',30
-3109,0,'& From McAllister Pl',31
+3009,0,'M - Champlain Hts',30
+3109,0,'McAllister Pl',31
 3201,0,'McAllister Pl',32
 3200,0,'Willow Grv',32
 3301,0,'King''s Sq',33
