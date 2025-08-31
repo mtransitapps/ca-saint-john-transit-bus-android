@@ -4,4 +4,6 @@
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="gtfs_rts_contact_us">https://saintjohn.ca/en/transit</string>
     <string name="gtfs_rts_contact_us_fr">https://saintjohn.ca/fr/transit</string>
+    <string name="gtfs_rts_fares">https://saintjohn.ca/en/transit/fares-and-passes</string>
+    <string name="gtfs_rts_fares_fr">https://saintjohn.ca/fr/transit/tarifs-et-cartes-dabonnement</string>
 </resources>
