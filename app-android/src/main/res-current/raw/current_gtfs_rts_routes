@@ -1,15 +1,15 @@
-1,'1','McAllister Place / East Point','1B4A8D',1598,3
-3,'3','McAllister Place / Regional UNB','1B4A8D',50,3
-9,'9','McAllister Place / Regional Hospital','1B4A8D',52,3
-12,'12','Martinon','EC6631',53,3
-15,'15','Harbour Bridge','EC6631',56,3
-20,'20','Wright St / Fort Howe','FAC938',57,3
-21,'21','South End / St Joseph’s','FAC938',1567,3
-23,'23','Crescent Valley','FAC938',1568,3
-24,'24','North End','FAC938',1602,3
-30,'30','Champlain Heights Silver Falls','8D0074',1570,3
-31,'31','Forest Glen','8D0074',1571,3
-32,'32','Loch Lomond','8D0074',1572,3
-33,'33','Champlain Lakewood','8D0074',1600,3
-35,'35','NBCC Express','8D0074',1634,3
-52,'52','Kennebecasis Valley Comex','71B64B',1574,3
+1,'1','McAllister Place / Lancaster Mall','',53,3
+3,'3','Regional/UNB (Via Millidge Ave)','',56,3
+9,'9','Regional/UNB (Via Churchill Blvd)','',57,3
+12,'12','Martinon','',1570,3
+15,'15','Harbour Bridge','',54,3
+20,'20','Wright Street/Fort Howe','',1571,3
+21,'21','South End/St Joseph''s','',51,3
+23,'23','Crescent Valley','',52,3
+24,'24','North End','',1572,3
+30,'30','Champlain/Silverfalls','',50,3
+31,'31','Forest Glen','',49,3
+32,'32','Loch Lomond/Airport','',1569,3
+33,'33','Champlain Lakewood','',1567,3
+35,'35','NBCC Express','',55,3
+52,'52','KV Comex','',1568,3
