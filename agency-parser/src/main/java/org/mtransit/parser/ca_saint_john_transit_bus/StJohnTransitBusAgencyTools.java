@@ -59,11 +59,9 @@ public class StJohnTransitBusAgencyTools extends DefaultAgencyTools {
 		return true;
 	}
 
-	private static final String AGENCY_COLOR_RED_DARKER = "D21A3C"; // from web site CSS
-	// private static final String AGENCY_COLOR_RED_LIGHT = "E71A38"; // from web site PNG
-	// private static final String AGENCY_COLOR_BLUE_DARK = "00247C"; // from web site PNG
+	private static final String AGENCY_COLOR_BLUE = "109ED0"; // BLUE from web site CSS
 
-	private static final String AGENCY_COLOR = AGENCY_COLOR_RED_DARKER;
+	private static final String AGENCY_COLOR = AGENCY_COLOR_BLUE;
 
 	@NotNull
 	@Override
