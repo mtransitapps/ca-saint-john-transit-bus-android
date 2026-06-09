@@ -1,13 +1,13 @@
-101,0,'1e - McALLISTER Pl / Field House',1
-100,0,'1w - Lancaster Xing',1
-301,0,'3e- McALLISTER Pl',3
-300,0,'3n - Regional UNB / Millidge Ave',3
-901,0,'9e - McALLISTER Pl',9
-900,0,'9n - Regional UNB / Churchill Blvd',9
+101,0,'1E - McALLISTER Pl / Field House',1
+100,0,'1W - Lancaster Xing',1
+301,0,'3E- McALLISTER Pl',3
+300,0,'3N - Regional UNB / Millidge Ave',3
+901,0,'9E - McALLISTER Pl',9
+900,0,'9N - Regional UNB / Churchill Blvd',9
 1201,0,'Lancaster Mall',12
 1200,0,'River Vly Cc',12
-1501,0,'15s - Harbour Bridge',15
-1500,0,'15w - Harbour Bridge / Fairville Blvd Plz',15
+1501,0,'15S - Harbour Bridge',15
+1500,0,'15W - Harbour Bridge / Fairville Blvd Plz',15
 2000,0,'Wright St / Fort Howe',20
 2100,0,'South End / St Joseph''s',21
 2300,0,'Cr Vly',23
@@ -19,5 +19,5 @@
 3300,0,'King''s Sq N',33
 3301,0,'Willie Av & Lakeview Dr',33
 3500,0,'King''s Sq N',35
-3501,0,'Nbcc - Grandview Ave',35
+3501,0,'NBCC - Grandview Ave',35
 5200,0,'Kv Comex',52
